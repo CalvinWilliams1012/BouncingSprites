@@ -6,6 +6,6 @@ The project was our first time using threads and is now a very small project kno
 
 All this project does is runs an animated "sprite"(coloured ball) on a new thread.
 
-![Image of the sprite on the GUI](example.jpg)
+![Image of the sprite on the GUI](example.JPG)
 
-![New Thread](thread.jpg)
+![New Thread](thread.JPG)
